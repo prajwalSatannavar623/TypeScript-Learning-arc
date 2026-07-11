@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/prajwalSatannavar623/TypeScript-Learning-arc#readme",
   "devDependencies": {
+    "ts-node": "^10.9.2",
     "typescript": "^7.0.2"
   }
 }
