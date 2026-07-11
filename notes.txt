@@ -1,0 +1,3 @@
+// package.json:
+1) instead of npx tsc , we can use npx ts-node src/index.ts { It directly runs ts file without converting to the intermediate step of convertinv it to js file }
+2) Alternative for ts-node is -> tsx { It functions identically to ts-node but starts up 5x to 10x faster because it skips heavy in-memory type validation during runtime execution}

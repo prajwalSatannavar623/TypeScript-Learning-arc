@@ -1,0 +1,25 @@
+{
+  "name": "typescript-learning-arc",
+  "version": "1.0.0",
+  "description": "A comprehensive TS read-up via chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwalSatannavar623/TypeScript-Learning-arc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prajwalSatannavar623/TypeScript-Learning-arc/issues"
+  },
+  "homepage": "https://github.com/prajwalSatannavar623/TypeScript-Learning-arc#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

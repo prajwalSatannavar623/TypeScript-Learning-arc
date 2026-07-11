@@ -1,0 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+function greet(name) {
+    return `Hello, ${name}, Welocome`;
+}
+const username = "Prajwal";
+console.log(greet(username));
+//# sourceMappingURL=index.js.map
